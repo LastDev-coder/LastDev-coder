@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>💬 I'm Atanu Paul, a passionate Flutter developer with a love for creating beautiful and performant mobile applications.<br>
+# Hi there! 👋<br><br>💬 I'm Atanu Paul, a passionate Flutter developer with a love for creating beautiful and performant mobile applications.<br><br>⚡ I've been working with Flutter for the past few years, and I've had the opportunity to build a variety of apps, from simple to complex. I'm proficient in all aspects of Flutter development, from design and layout to coding and testing. I'm also familiar with a variety of third-party Flutter packages, which I use to add additional functionality to my apps.
 
 
 ## 🌐 Socials:
