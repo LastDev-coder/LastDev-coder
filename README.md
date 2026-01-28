@@ -1,5 +1,5 @@
-# Hello , my name is Atanu
-<sub><i>Nice to meet you 👋 </i></sub>
+# Hi, I’m Atanu  👋
+<sub><i>Mobile engineer focused on iOS and Flutter.</i></sub>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=iOS+Native+Developer;Flutter+Cross-Platform;Clean+Architecture+%7C+Thoughtful+UX;Curious+About+AI+in+Mobile" />
